@@ -5,7 +5,11 @@
 - Redux
 - TailwindCSS
 
-In this, User can add new users, edit the user and also delete as well from the list.
+---
+
+In this, User can add new users, edit the user and also delete them from the list.
+
+---
 
 
 ##### Component Structure
